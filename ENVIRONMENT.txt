@@ -1,0 +1,11 @@
+VideoTranscriber - Tested Environment
+
+OS: Windows 11
+Python: 3.14.8 (64-bit / AMD64)
+Faster-Whisper: 1.2.1
+PyAV (av): 18.1.0
+FFmpeg: 9.0.2
+PyInstaller: 6.22.3
+Whisper model: base
+Device: CPU
+Compute type: int8
